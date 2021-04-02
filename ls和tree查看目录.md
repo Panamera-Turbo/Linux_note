@@ -17,8 +17,8 @@
 
 ### tree
 
-	- 以树状图显示当前目录的所有信息，文件数和路径数  tree  指定目录：显示指定目录  
-	-  只查看当前第n级目录：  tree  -L n     将当前结果保存到文件：  tree -L n > 绝对路径/文件名.txt  (eg:  tree -L 2 > /mnt/f/test_empty/tree_output.txt)  
+- 以树状图显示当前目录的所有信息，文件数和路径数  tree  指定目录：显示指定目录  
+-  只查看当前第n级目录：  tree  -L n     将当前结果保存到文件：  tree -L n > 绝对路径/文件名.txt  (eg:  tree -L 2 > /mnt/f/test_empty/tree_output.txt)  
 
 
 
